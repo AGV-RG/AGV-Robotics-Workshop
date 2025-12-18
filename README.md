@@ -61,7 +61,6 @@ Participants should have:
 - Familiarity with Linux/Ubuntu
 - Laptop with at least 8GB RAM and 50GB free disk space
 
-
 ## Getting Started
 
 1. **Clone the repository**
@@ -81,15 +80,6 @@ Participants should have:
 4. **Day 2: Hands-on Implementation**
    - Work through exercises in `02-Hands-on/`
    - Integrate components in `04-Integration/`
-
-## Hardware/Sensors Used
-
-The final integrated system will utilize:
-1. Vision (Camera)
-2. Lidar
-3. Ultrasonic Sensors (US)
-4. GPS Waypoints
-5. IMU (Inertial Measurement Unit)
 
 ## Contact
 
